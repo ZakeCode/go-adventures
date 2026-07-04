@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 120],
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/target": true,
+    "**/__pycache__": true,
+    "**/bin": true,
+    "**/obj": true
+  }
+}
