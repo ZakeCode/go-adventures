@@ -1,6 +1,6 @@
-# Project Name
+# go-adventures
 
-> One-line description of what this does and why it exists.
+> A personal sandbox for exploring Go — small projects and exercises while learning the language.
 
 <p>
   <img src="https://img.shields.io/badge/status-active-brightgreen" />
@@ -9,33 +9,30 @@
 
 ## ✨ Overview
 
-A short paragraph on the problem this solves or the idea behind it — what prompted you to build it, and what it does.
+A collection of small Go projects and exercises used for learning the language and its standard library.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- [ ] Language/runtime + version (e.g. Go 1.22+, Node 20+, Rust 1.78+)
-- [ ] Any external services or accounts needed
+- [ ] Go 1.22+
 
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
-# install steps here
+git clone https://github.com/ZakeCode/go-adventures.git
+cd go-adventures
 ```
 
 ### Usage
 
 ```bash
-# example command to run it
+go run .
 ```
 
 ## 🛠️ Built With
 
-- Language / framework
-- Key libraries
+- Go
 
 ## 🗺️ Roadmap
 
